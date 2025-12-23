@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <div className="logo">Datapack LTD</div>
+        <div className="logo">Datapaq LTD</div>
         <nav className="nav">
           <a href="#hero">Home</a>
           <a href="#services">Services</a>
@@ -28,7 +28,7 @@ function App() {
 
       <section id="hero" className="hero">
         <h1>Empowering Startups with Data-Driven Tech Consulting</h1>
-        <p>At Datapack LTD, we specialize in providing innovative tech consulting solutions to startups, leveraging data analytics to build websites and applications that solve real-world problems and drive business growth.</p>
+        <p>At Datapaq LTD, we specialize in providing innovative tech consulting solutions to startups, leveraging data analytics to build websites and applications that solve real-world problems and drive business growth.</p>
         <button className="cta-button">Get Started</button>
       </section>
 
@@ -52,7 +52,7 @@ function App() {
 
       <section id="about" className="about">
         <h2>About Us</h2>
-        <p>At Datapack LTD, we are dedicated to empowering startups through data-driven tech consulting. Our expert team combines cutting-edge technology with deep data insights to deliver tailored solutions that address your unique challenges. From strategic guidance to custom web development, we help transform your vision into scalable, efficient digital products that enhance user experiences and drive measurable results.</p>
+        <p>At Datapaq LTD, we are dedicated to empowering startups through data-driven tech consulting. Our expert team combines cutting-edge technology with deep data insights to deliver tailored solutions that address your unique challenges. From strategic guidance to custom web development, we help transform your vision into scalable, efficient digital products that enhance user experiences and drive measurable results.</p>
       </section>
 
       <section id="contact" className="contact">
@@ -85,14 +85,14 @@ function App() {
           <button type="submit" className="submit-button">Send Message</button>
         </form>
         <div className="contact-info">
-          <p>Email: info@datapackltd.com</p>
-          <p>Phone: +1 (555) 123-4567</p>
+          <p>Email: info@datapaqltd.com</p>
+          <p>Phone: +234 901 774 1880</p>
           <p>Your data is secure with us. We adhere to strict privacy standards.</p>
         </div>
       </section>
 
       <footer className="footer">
-        <p>&copy; 2023 Datapack LTD. All rights reserved.</p>
+        <p>&copy; 2023 Datapaq LTD. All rights reserved.</p>
       </footer>
     </div>
   )
